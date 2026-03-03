@@ -2,3 +2,5 @@
 
 ## HTML basics 
 
+
+[Live Preview]("https://paulscreate.github.io/odin-recipes/")
