@@ -1,6 +1,8 @@
 # My 1st Odin Project Proj
 
-## HTML basics 
-
+## ODIN Recipes 
+* Mexican Rice
+* Mushroom Stir-Fry
+* Spicy Rapid Roasted Chicken 
 
 [Live Preview](https://paulscreate.github.io/odin-recipes/)
