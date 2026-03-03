@@ -3,4 +3,4 @@
 ## HTML basics 
 
 
-[Live Preview]("https://paulscreate.github.io/odin-recipes/")
+[Live Preview](https://paulscreate.github.io/odin-recipes/)
